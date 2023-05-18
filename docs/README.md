@@ -3,14 +3,14 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-XXX-project-template
-title:
+repository-name: StudentResultSystem
+title: Student Results Management System - CO226
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # Project Title
-
+Student Results Management System Mobile Application 
 ---
 
 This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
@@ -19,9 +19,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/19/105, FAHMAN M.H.M., [email](e19105@eng.pdn.c.lk)
+-  E/19/106, FASEEH M.F.M., [email](e19106@eng.pdn.c.lk)
+-  E/19/244, MOHANATHAS H., [email](e19244@eng.pdn.c.lk)
+-  E/19/247, MUSTHAK S.M., [email](e19247@eng.pdn.c.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,7 +33,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+The aim is to build a system  to manage and analyze undergraduate students’ marks.
 
 ## Other Sub Topics
 
